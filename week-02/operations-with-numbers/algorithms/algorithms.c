@@ -3,3 +3,6 @@
 //
 
 #include "algorithms.h"
+bool isPrime(int number) {
+
+}
