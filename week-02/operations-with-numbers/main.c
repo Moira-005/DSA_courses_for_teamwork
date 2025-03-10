@@ -28,3 +28,4 @@ int main(void) {
     printf("Number of primes: %i",count);
     return 0;
 }
+//teszt
