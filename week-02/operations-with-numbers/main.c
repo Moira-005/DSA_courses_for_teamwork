@@ -7,6 +7,6 @@ int main(void) {
      * TODO: fill the arrays with random values between [1, 10]
      * TODO: print the arrays
      * TODO: calculate and print the number of prime numbers
-     */
+     * feladat */
     return 0;
 }
